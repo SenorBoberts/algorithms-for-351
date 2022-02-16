@@ -17,3 +17,5 @@ How to run an algorithm example:
 ```Bash
 ruby bubble.rb
 ```
+
+$$ \sum_{i=0}^{n} $$
