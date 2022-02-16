@@ -18,4 +18,3 @@ How to run an algorithm example:
 ruby bubble.rb
 ```
 
-$$ \sum_{i=0}^{n} $$
