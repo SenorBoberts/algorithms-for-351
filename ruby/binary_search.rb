@@ -8,6 +8,7 @@ r = a.length - 1
 
 while l <= r
     c = ((l+r)/2).floor
+    puts "l: #{l}\nr: #{r}\nc: #{c}\n-------\n"
     if a[c] == target 
         puts c
         return
@@ -16,6 +17,6 @@ while l <= r
     elsif target > a[c]
         l = c + 1
     end
-    puts "l: #{l}\nr: #{r}\nc: #{c}\n-------\n"
+    
 end
 return
