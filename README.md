@@ -12,6 +12,7 @@ The algorithms are as follows:
 4.  Selection Sort
 5.  Insertion Sort
 6.  Binary Search
+7. 	Merge Sort
 
 How to run an algorithm example:
 ```Bash
