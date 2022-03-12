@@ -1,3 +1,4 @@
+# * note this type of sort does not work based on this implementation and ruby wont give me an error message so, go look in the python folder for something that works *
 def maxheapify(tree,i,n)
   leftnode = 2*i
   rightnode = 2*i

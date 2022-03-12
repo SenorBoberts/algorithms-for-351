@@ -13,6 +13,8 @@ The algorithms are as follows:
 5.  Insertion Sort
 6.  Binary Search
 7. 	Merge Sort
+8.  Heap Sort & Max Heapify
+9.  Quick Sort
 
 How to run an algorithm example:
 ```Bash

@@ -16,3 +16,5 @@ end
 quicksort(a, 0, a.length - 1)
 
 puts a.to_s
+
+# *note this only does one partion*
