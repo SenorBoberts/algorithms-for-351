@@ -15,6 +15,7 @@ The algorithms are as follows:
 7. 	Merge Sort
 8.  Heap Sort & Max Heapify
 9.  Quick Sort
+10. Some sort of twos complement bitwise addition thing that was only useful on HW8
 
 How to run an algorithm example:
 ```Bash
